@@ -1,0 +1,4 @@
+drawio - https://drive.google.com/file/d/1F51bmlZjsPYmUEcvZPhsOdTaYln_U4qw/view?usp=sharing_eil_m&ts=6246c407
+usecases - https://docs.google.com/document/d/1ym3oqWMYDzjnqnnojm17IJ9Njn7X2d3vOYrVyuYXykU/edit?usp=sharing
+glossary - https://docs.google.com/document/d/1lXtfNOu80fe6b3TZR-6aVm2MSLMjAvZ_JW35pVD9dcI/edit?usp=sharing
+constraints table - https://docs.google.com/document/d/10o3_9z0R7Ahr2YKnB5tCZ2u9q9Sw5cuqHVm-RJYaUBA/edit?usp=sharing

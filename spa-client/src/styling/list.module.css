@@ -1,0 +1,14 @@
+.list {
+    list-style: none;
+    margin-left: 1rem;
+    margin: 0;
+    padding: 0;
+
+  }
+
+  .actions {
+    margin-left: 1rem;
+    margin-top: 1rem;
+    text-align: right;
+    font-family: sans-serif;
+  }

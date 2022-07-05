@@ -1,0 +1,34 @@
+{
+  "Excecute BidProduct" : {
+    "transaction" : "Excecute BidProduct",
+    "sampleCount" : 100,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 129.48000000000002,
+    "medianResTime" : 4.0,
+    "minResTime" : 2.0,
+    "maxResTime" : 913.0,
+    "pct1ResTime" : 447.80000000000024,
+    "pct2ResTime" : 547.4499999999996,
+    "pct3ResTime" : 912.2999999999996,
+    "throughput" : 90.74410163339383,
+    "receivedKBytesPerSec" : 37.48777081442831,
+    "sentKBytesPerSec" : 24.628516333938293
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 100,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 129.48000000000002,
+    "medianResTime" : 4.0,
+    "minResTime" : 2.0,
+    "maxResTime" : 913.0,
+    "pct1ResTime" : 447.80000000000024,
+    "pct2ResTime" : 547.4499999999996,
+    "pct3ResTime" : 912.2999999999996,
+    "throughput" : 90.74410163339383,
+    "receivedKBytesPerSec" : 37.48777081442831,
+    "sentKBytesPerSec" : 24.628516333938293
+  }
+}

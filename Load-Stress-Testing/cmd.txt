@@ -1,0 +1,1 @@
+java -jar ApacheJMeter.jar -n -t C:\Users\nes_afriat\Desktop\Scenarios\Scenario2-Register.jmx -l C:\Users\nes_afriat\Desktop\results1.csv -e -o C:\Users\nes_afriat\Desktop\Results\scenario2\stress

@@ -1,0 +1,7 @@
+Register	u1,123,u1@post.bgu.ac.il	u2,123,u2@post.bgu.ac.il	u3,123,u3@post.bgu.ac.il	u4,123,u4@post.bgu.ac.il	u5,123,u5@post.bgu.ac.il	u6,123,u6@post.bgu.ac.il
+Admins	u1
+Shops	2,0521234567,1234123412341234,shop1,shop1 description,shop1 location	2,0521234567,1234123412341234,shop2,shop2 description,shop2 location
+Products	2,1,Bamba,20,30,Bamba description,Snacks
+Managers	2,u3,1
+Owners	2,u4,1	2,u5,1
+Permissions	2,u3,1,2

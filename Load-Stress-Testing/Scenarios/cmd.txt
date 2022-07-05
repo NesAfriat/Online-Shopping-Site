@@ -1,0 +1,1 @@
+java -jar ApacheJMeter.jar -n -t C:\Users\nes_afriat\Desktop\Scenarios\Scenarios-9-BidProduct.jmx -l C:\Users\nes_afriat\Desktop\results.csv -e -o C:\Users\nes_afriat\Desktop\Results\scenario9
